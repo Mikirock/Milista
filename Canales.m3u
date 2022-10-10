@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="I390.16461.schedulesdirect.org" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://comteco.com.bo/img/upload/canales/las-estrellas.png" group-title="Mexico",CANAL DE LAS ESTRELLAS
+http://grootplay.com:25461/erick5/erick5/33
+#EXTINF:-1 tvg-id="I103.47604.schedulesdirect.org" tvg-name="AZTECA 7" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Mexico",AZTECA 7
+http://grootplay.com:25461/erick5/erick5/26
 #EXTINF:-1 tvg-id="I432.79968.schedulesdirect.org" tvg-name="AZ MUNDO" tvg-logo="https://cdn.mitvstatic.com/channels/gt_azteca-13_m.png" group-title="Mexico",AZ MUNDO
 http://grootplay.com:25461/erick5/erick5/24
 #EXTINF:-1 tvg-id="I164.61404.schedulesdirect.org" tvg-name="AZ CORAZON" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="Mexico",AZ CORAZON
